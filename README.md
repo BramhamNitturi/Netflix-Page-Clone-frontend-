@@ -1,6 +1,8 @@
 # Netflix-Page-Clone-frontend
 This project is a frontend clone of the Netflix landing page, built entirely using HTML and CSS. The goal of this project was to practice modern layout techniques, improve styling skills, and understand how real-world streaming platforms structure their user interfaces.
 
+"This project was intentionally built for desktop view to focus on layout precision and UI styling."
+
 The design replicates the core visual elements of Netflix’s homepage, including the hero banner section, navigation bar, trending movie rows, and footer. Special attention was given to spacing, alignment, hover effects, and overall visual balance to closely match the original look and feel.
 
 Through this project, I strengthened my understanding of Flexbox, positioning, responsive layout fundamentals, and clean UI structuring. It also helped me improve attention to detail while recreating a professional-level interface without using any frameworks or JavaScript.
@@ -11,8 +13,7 @@ This clone is built purely for educational and portfolio purposes. It is not aff
 Technologies Used :<br>
   HTML5<br>
   CSS3<br>
-  Flexbox<br>
-  Basic Responsive Design Principles
+  Flexbox
 
 <br>
 While building this project, I improved my ability to:<br>
